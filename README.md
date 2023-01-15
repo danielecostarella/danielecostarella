@@ -1,5 +1,7 @@
-👋 Hi there, I’m @danielecostarella
-👀 I’m interested in Linux and Embedded Software
+👋 Hi there, I’m @danielecostarella  
+
+👀 I’m interested in Linux and Embedded Software  
+
 📫 How to reach me: [Twitter](https://twitter.com/dcostarella) | [LinkedIn](https://www.linkedin.com/in/danielecostarella) 
 
 <!---
