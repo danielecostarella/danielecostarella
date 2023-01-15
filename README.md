@@ -1,6 +1,6 @@
-- 👋 Hi there, I’m @danielecostarella
-- 👀 I’m interested in Linux and Embedded Software
-- 📫 How to reach me: Twitter | LinkedIn
+👋 Hi there, I’m @danielecostarella
+👀 I’m interested in Linux and Embedded Software
+📫 How to reach me: [Twitter](https://twitter.com/dcostarella) | [LinkedIn](https://www.linkedin.com/in/danielecostarella) 
 
 <!---
 danielecostarella/danielecostarella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
