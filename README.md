@@ -1,6 +1,6 @@
 # 👋 I'm Daniele Costarella
 
-Currently leading software platforms at Italdesign. I specialize in Embedded Linux and high-complexity systems, bridging the gap between deep technical implementation and the strategic oversight required to deliver robust software products.
+I specialize in Embedded Linux and high-complexity systems, bridging the gap between deep technical implementation and the strategic oversight required to deliver robust software products.
 
 My focus is on building scalable architectures and fostering engineering practices that help teams deliver quality at speed, across automotive and emerging high-tech sectors.
 
