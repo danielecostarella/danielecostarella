@@ -12,8 +12,12 @@ My focus is on building scalable architectures and fostering engineering practic
 ### 🌎 Pragmatic Approach
 I believe in clean code and solid documentation, but I prioritize pragmatic, results-oriented solutions that solve real-world problems and meet business goals.
 
-### 📝 Note
-This profile is a personal space for hobby projects, learning, and architectural experiments. All professional work is kept within private corporate repositories in compliance with NDA and intellectual property policies.
+### ⚖️ Open Source & IP Philosophy
+This profile serves as a personal sandbox for **architectural exploration, R&D experiments, and continuous learning**. 
+
+* **Separation of Concerns:** All repositories hosted here are independent of my professional engagements.
+* **Compliance:** Professional projects and proprietary code remain strictly within corporate environments, respecting NDAs and intellectual property agreements.
+* **Goal:** I use this space to "get my hands dirty" with new technologies, ensuring my skills stay at the cutting edge of the embedded ecosystem.
 
 ### 📫 Let's connect
 [LinkedIn](https://www.linkedin.com/in/danielecostarella/)
