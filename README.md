@@ -20,7 +20,9 @@ This profile serves as a personal sandbox for **architectural exploration, R&D e
 * **Goal:** I use this space to "get my hands dirty" with new technologies, ensuring my skills stay at the cutting edge of the embedded ecosystem.
 
 ### 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/danielecostarella/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielecostarella/)
+[![X](https://img.shields.io/badge/X-grey?style=flat-square&logo=x&logoColor=white)](https://x.com/dcostarella)
 
 <!---
 danielecostarella/danielecostarella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
