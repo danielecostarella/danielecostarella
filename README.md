@@ -1,25 +1,26 @@
 # 👋 I'm Daniele Costarella
 
-I specialize in Embedded Linux and high-complexity systems, bridging the gap between deep technical implementation and the strategic oversight required to deliver robust software products.
+I work on embedded software, Embedded Linux, and complex software platforms,
+mostly in the automotive world.
 
-My focus is on building scalable architectures and fostering engineering practices that help teams deliver quality at speed, across automotive and emerging high-tech sectors.
+Over time I’ve moved between hands-on engineering and technical leadership: from low-level systems and BSP work to infotainment platforms, architecture, CI/CD, testing, reviews, and the everyday practices that help teams ship better software without losing control of the codebase.
 
-### 🛠 Tech & Leadership Focus
-* **Platform Leadership:** Driving the development of complex software stacks, from infotainment systems to cross-domain applications.
-* **System Architecture:** Designing reliable Embedded Linux systems with a focus on modularity, portability, and long-term maintainability.
-* **Engineering Excellence:** Promoting CI/CD automation, robust testing strategies, and streamlined code reviews to improve team efficiency and software quality.
+### What I care about
 
-### 🌎 Pragmatic Approach
-I believe in clean code and solid documentation, but I prioritize pragmatic, results-oriented solutions that solve real-world problems and meet business goals.
+- Building software that is understandable, testable, and maintainable.
+- Keeping architecture practical, not decorative.
+- Automating the boring parts so people can focus on the hard parts.
+- Staying close enough to the code to make good technical decisions.
 
-### ⚖️ Open Source & IP Philosophy
-This profile serves as a personal sandbox for **architectural exploration, R&D experiments, and continuous learning**. 
+### This profile
 
-* **Separation of Concerns:** All repositories hosted here are independent of my professional engagements.
-* **Compliance:** Professional projects and proprietary code remain strictly within corporate environments, respecting NDAs and intellectual property agreements.
-* **Goal:** I use this space to "get my hands dirty" with new technologies, ensuring my skills stay at the cutting edge of the embedded ecosystem.
+This is my personal space for experiments, learning, and side projects.
 
-### 📫 Let's connect
+The repositories here are independent from my professional work. Anything related to company projects, proprietary code, NDAs, or customer IP stays where it belongs: inside the proper corporate environments.
+
+I use this space to try things, revisit ideas, and keep my hands dirty with tools and technologies around the embedded ecosystem.
+
+### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielecostarella/)
 [![X](https://img.shields.io/badge/X-grey?style=flat-square&logo=x&logoColor=white)](https://x.com/dcostarella)
