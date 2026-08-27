@@ -1,6 +1,6 @@
 # 👋 I'm Daniele Costarella
 
-I work on embedded software, Embedded Linux, and complex software platforms,
+I work on embedded software, embedded Linux, and complex software platforms,
 mostly in the automotive world.
 
 Over time I’ve moved between hands-on engineering and technical leadership: from low-level systems and BSP work to infotainment platforms, architecture, CI/CD, testing, reviews, and the everyday practices that help teams ship better software without losing control of the codebase.
